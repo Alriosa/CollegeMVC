@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entities_POJO
 {  //Here is where i place the Enums
+   //Change the Class for Enum. 
     public class Classroom
     {
     }
